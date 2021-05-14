@@ -8,5 +8,6 @@ manifest*       text eol=lf
 *.html          text eol=lf
 *.lua           text eol=lf
 *.md            text eol=lf
+*.yml           text eol=lf
 
 *.rock          binary

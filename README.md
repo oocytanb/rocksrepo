@@ -19,5 +19,5 @@ luarocks make --pack-binary-rock
 [Make manifest | LuaRocks](https://github.com/luarocks/luarocks/wiki/make-manifest)
 
 ```
-luarocks-admin make_manifest repo
+luarocks-admin make_manifest docs
 ```
