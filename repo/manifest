@@ -1,0 +1,11 @@
+commands = {}
+modules = {}
+repository = {
+   ["luacov-multiple"] = {
+      ["scm-1"] = {
+         {
+            arch = "all"
+         }
+      }
+   }
+}
