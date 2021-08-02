@@ -21,3 +21,9 @@ luarocks make --pack-binary-rock
 ```
 luarocks-admin make_manifest docs
 ```
+
+CRLF to LF
+
+```bash
+find docs -type f -not -name \*.rock -exec sed -i 's/\\r\\n/\\n/g' {} \;
+```
